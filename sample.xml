@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml...MARC21slim.xsd">
+  <!-- BEGIN One Bib, One Rep, One File -->
+  <marc:record>
+    <marc:leader>02470ctm a2200469 a 4500</marc:leader>
+    <marc:controlfield tag="008">240607s2024    xx a     bm   000 0 eng d</marc:controlfield>
+    <marc:controlfield tag="001"></marc:controlfield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">McWilliams, Jeremy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">A pretty good thesis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1="1" ind2="0">
+      <marc:subfield code="a">Advisor: Moriah Bostian</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1="1" ind2="0">
+      <marc:subfield code="b">B.A.</marc:subfield>
+      <marc:subfield code="c">Lewis &amp; Clark College</marc:subfield>
+      <marc:subfield code="d">1994</marc:subfield>
+.     <marc:subfield code="g">Economics</marc:subfield>    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="540" ind1=" " ind2=" ">
+      <marc:subfield code="a">CAS access</marc:subfield>
+    </marc:datafield>    <marc:datafield tag="655" ind1="0" ind2=" ">
+      <marc:subfield code="a">Academic Thesis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="787" ind1="0" ind2=" ">
+      <marc:subfield code="w">81257630980001844</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="1" ind2="2">
+      <marc:subfield code="u">mcwilliams-j-economics-1994-0001.pdf</marc:subfield>
+      <marc:subfield code="y">View Thesis</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <!-- END One Bib, One Rep, One File -->
+  <!-- BEGIN One Bib, One Rep, One File -->
+  <marc:record>
+    <marc:leader>02470ctm a2200469 a 4500</marc:leader>
+    <marc:controlfield tag="008">240607s2024    xx a     bm   000 0 eng d</marc:controlfield>
+    <marc:controlfield tag="001"></marc:controlfield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Digital, Joe</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">All about AI</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1="1" ind2="0">
+      <marc:subfield code="a">Advisor: Ellen Seljan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1="1" ind2="0">
+      <marc:subfield code="b">B.A.</marc:subfield>
+      <marc:subfield code="c">Lewis &amp; Clark College</marc:subfield>
+      <marc:subfield code="d">2022</marc:subfield>
+.     <marc:subfield code="g">Political Science</marc:subfield>    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam hendrerit nisi sed sollicitudin pellentesque. Nunc posuere purus rhoncus pulvinar aliquam. Ut aliquet tristique nisl vitae volutpat. Nulla aliquet porttitor venenatis. Donec a dui et dui fringilla consectetur id nec massa. Aliquam erat volutpat. Sed ut dui ut lacus dictum fermentum vel tincidunt neque. Sed sed lacinia lectus. Duis sit amet sodales felis. Duis nunc eros, mattis at dui ac, convallis semper risus. In adipiscing ultrices tellus, in suscipit massa vehicula eu.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="540" ind1=" " ind2=" ">
+      <marc:subfield code="a">Open to the world</marc:subfield>
+    </marc:datafield>    <marc:datafield tag="655" ind1="0" ind2=" ">
+      <marc:subfield code="a">Academic Thesis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="787" ind1="0" ind2=" ">
+      <marc:subfield code="w">81257630860001844</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="1" ind2="2">
+      <marc:subfield code="u">digital-j-politicalscience-2022-0001.pdf</marc:subfield>
+      <marc:subfield code="y">View Thesis</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <!-- END One Bib, One Rep, One File -->
+  <!-- BEGIN One Bib, One Rep, One File -->
+  <marc:record>
+    <marc:leader>02470ctm a2200469 a 4500</marc:leader>
+    <marc:controlfield tag="008">240607s2024    xx a     bm   000 0 eng d</marc:controlfield>
+    <marc:controlfield tag="001"></marc:controlfield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bocci, Natalie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Coolness quotient associated with marijuana usage in social settings Circa 1996</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1="1" ind2="0">
+      <marc:subfield code="a">Advisor: Robert Kugler</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1="1" ind2="0">
+      <marc:subfield code="b">B.A.</marc:subfield>
+      <marc:subfield code="c">Lewis &amp; Clark College</marc:subfield>
+      <marc:subfield code="d">2008</marc:subfield>
+.     <marc:subfield code="g">English</marc:subfield>    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">test abstract</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="540" ind1=" " ind2=" ">
+      <marc:subfield code="a">Open to the world</marc:subfield>
+    </marc:datafield>    <marc:datafield tag="655" ind1="0" ind2=" ">
+      <marc:subfield code="a">Academic Thesis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="787" ind1="0" ind2=" ">
+      <marc:subfield code="w">81257630970001844</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="1" ind2="2">
+      <marc:subfield code="u">bocci-n-english-2008-0001.pdf</marc:subfield>
+      <marc:subfield code="y">View Thesis</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <!-- END One Bib, One Rep, One File -->
+  <!-- BEGIN One Bib, One Rep, One File -->
+  <marc:record>
+    <marc:leader>02470ctm a2200469 a 4500</marc:leader>
+    <marc:controlfield tag="008">240607s2024    xx a     bm   000 0 eng d</marc:controlfield>
+    <marc:controlfield tag="001"></marc:controlfield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Willer, Crystal</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Fake Thesis: I Do Everything I'm Told</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1="1" ind2="0">
+      <marc:subfield code="a">Advisor: Mary Szybist</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1="1" ind2="0">
+      <marc:subfield code="b">B.A.</marc:subfield>
+      <marc:subfield code="c">Lewis &amp; Clark College</marc:subfield>
+      <marc:subfield code="d">2007</marc:subfield>
+.     <marc:subfield code="g">English</marc:subfield>    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">A fake thesis that is in fact a sonnet sequence from the book I Do Everything I'm Told by Megan Fernandes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="540" ind1=" " ind2=" ">
+      <marc:subfield code="a">CAS access</marc:subfield>
+    </marc:datafield>    <marc:datafield tag="655" ind1="0" ind2=" ">
+      <marc:subfield code="a">Academic Thesis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="787" ind1="0" ind2=" ">
+      <marc:subfield code="w">81257630970001844</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="1" ind2="2">
+      <marc:subfield code="u">willer-c-english-2007-0001.pdf</marc:subfield>
+      <marc:subfield code="y">View Thesis</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <!-- END One Bib, One Rep, One File -->
+  <!-- BEGIN One Bib, One Rep, One File -->
+  <marc:record>
+    <marc:leader>02470ctm a2200469 a 4500</marc:leader>
+    <marc:controlfield tag="008">240607s2024    xx a     bm   000 0 eng d</marc:controlfield>
+    <marc:controlfield tag="001"></marc:controlfield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hirsch, Elaine</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Library Services for Incarcerated and Formerly Incarcerated Individuals</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1="1" ind2="0">
+      <marc:subfield code="a">Advisor: Reiko Hillyer</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="502" ind1="1" ind2="0">
+      <marc:subfield code="b">B.A.</marc:subfield>
+      <marc:subfield code="c">Lewis &amp; Clark College</marc:subfield>
+      <marc:subfield code="d">1992</marc:subfield>
+.     <marc:subfield code="g">History</marc:subfield>    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Does your library prioritize lifelong learning and promoting literacy? If so, then it's time to bring those initiatives to patrons who are incarcerated. Low literacy is linked to incarceration and recidivism while access to higher education has been shown to reduce recidivism by 43%. Even so, in Oregon only 6% of the prison budget is dedicated to education! Libraries can play a crucial role in increasing equity and dismantling mass incarceration by providing Adults and Youths in Custody access to books, information, literacy programs, and by forming community partnerships that remove barriers for those recently released.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="540" ind1=" " ind2=" ">
+      <marc:subfield code="a">CAS access</marc:subfield>
+    </marc:datafield>    <marc:datafield tag="655" ind1="0" ind2=" ">
+      <marc:subfield code="a">Academic Thesis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="787" ind1="0" ind2=" ">
+      <marc:subfield code="w">81257630920001844</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="1" ind2="2">
+      <marc:subfield code="u">hirsch-e-history-1992-0001.pdf</marc:subfield>
+      <marc:subfield code="y">View Thesis</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <!-- END One Bib, One Rep, One File -->
+</marc:collection>
