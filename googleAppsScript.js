@@ -1,9 +1,10 @@
-// Alma Digital Sub-Collection Codes
+
+  // Alma Digital Sub-Collection Codes
 let codes={};
 codes["Art History"]="81244791060001844";
 codes["Asian Studies"]="81256481040001844";
 codes["Biology"]="81256481090001844";
-codes["Biochemistry / Molecular Biology"]="81256481090001844";
+codes["Biochemistry and Molecular Biology"]="81256481090001844";
 codes["Chemistry"]="81257650760001844";
 codes["Classics"]="81257631000001844";
 codes["Computer Science"]="81257630990001844";
@@ -23,7 +24,7 @@ codes["Political Science"]="81257630860001844";
 codes["Psychology"]="81257630850001844";
 codes["Religious Studies"]="81257630840001844";
 codes["Rhetoric and Media Studies"]="81257630830001844";
-codes["Sociology / Anthropology"]="81257630820001844";
+codes["Sociology and Anthropology"]="81257630820001844";
 codes["Spanish"]="81257630810001844";
 codes["Theatre"]="81257630800001844";
 codes["World Languages and Literatures"]="81257630790001844";
@@ -42,6 +43,7 @@ function onOpen() {
   .addSeparator()
   .addItem('Download Zip for Alma Ingest', 'downloadFolderAsZip')
   .addToUi();
+  //prepareForXml()
 
 }
 
@@ -65,7 +67,12 @@ function prepareForXml(){
       var visibility=row[10];
       var dept=row[11];
       var advisor=row[13];
-
+      Logger.log(index, dept, firstName, lastName, fileUrl, year)
+      Logger.log(dept)
+      Logger.log(firstName)
+      Logger.log(lastName)
+      Logger.log(fileUrl)
+      Logger.log(year)
       updateFiles(sheet, index, dept, firstName, lastName, fileUrl, year);
 
       setAccessPolicy(sheet, index, visibility);
@@ -147,7 +154,7 @@ function updateFiles(sheet, index, dept, firstName, lastName, fileUrl, year){
       // update spreadsheet with new file name    
       var cell = sheet.getRange(index+1,16);
       cell.setValue(fileName);
-
+      //Logger.log(fileId)
       //rename the file in G-Drive
       DriveApp.getFileById(fileId).setName(fileName);
       getContainingFolderId(fileId);
@@ -177,7 +184,7 @@ function getEight(){
 
 function generateXml() {
   // Define variables for each element's value
-  var leader = "02470ctm a2200469 a 4500";
+  var leader = "02470cmm a2200469 a 4500";
   var controlfield008=getEight();
   //var controlfield008 = "151009s2019    xx a     bm   000 0 eng d";
   var controlfield001 = "";
